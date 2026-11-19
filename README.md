@@ -25,3 +25,44 @@ This project is developed as a Python programming project to practice programmin
 | delete teacher | removes a teacher from school class |
 | load_data | loads data into the school |
 |save_data | save data into the school |
+
+
+
+---
+# how it works
+if you run this code a menu appear this is a menu:
+1. students
+2. teachers
+3. courses
+4. classrooms
+5. save
+0. exit
+ --- 
+if you select option 1 , the list will be displayed:
+1. show students
+- Displays the list of students
+2. add students
+- adds a student.
+3. edit student
+- edits a students
+4. delete a student
+- deletes a student
+5. select student
+- for select student
+6. back
+- back to root menu
+if you select option 2 , the list will be displayed :
+1. show teachers 
+- displays the list of teachers
+2. add teacher
+- adds a teacher
+3. edit teachers
+- edits a teacher
+4. delete teacher
+- for delete teacher
+5. select teacher
+- for select teacher
+0. back
+- for back to root menu
+
+
