@@ -8,11 +8,20 @@ This project is developed as a Python programming project to practice programmin
  ---
 # structure
 
-## school 
-
+## class  school 
 | property | Description |
 | --- | --- |
 | name | this is a school name |
 | courses | this is a school courses |
 | students | this is a students information |
 | teachers | this is a teachers information |
+### school class method
+| method | Description |
+| --- | --- |
+| init |  this method adds the name of your school to the name property of the school class|
+| add_student | adds a student from the school class |
+| delete_student | removes a students from the school class |
+| add_teacher | adds a teacher from the school class|
+| delete teacher | removes a teacher from school class |
+| load_data | loads data into the school |
+|save_data | save data into the school |
